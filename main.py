@@ -34,3 +34,6 @@ else:
 
     print(f"Error: {response.status_code}")
 
+# https://github.com/skillacademyonwheels/5.-Sentiment-Analysis-Toolv4.git
+
+# https://colab.research.google.com/drive/1RDU5YAmzr_gg01Bei6cDTDBnzSk5rIx_?usp=sharing
